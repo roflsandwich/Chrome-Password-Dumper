@@ -47,12 +47,6 @@ def getpasswords():
     dataToBeSent["passwords"] = dataList
     return dataToBeSent
 
-#def send():
-    #Add post request api route here
-#    url = " "
-#    jsonData = getpasswords()
-#    print(jsonData)
-#    r = requests.post(url=url, json=jsonData)
 
 def write():
 	jsonData = getpasswords()
