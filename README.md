@@ -9,4 +9,8 @@ For **powershell** version:
 
 * chrome.py uncompiled version
 
-* compiled with py2exe
+* chrome.exe - compiled with py2exe
+
+* chrome.ps1 - powershell version
+
+* chromev2.ps1 - powershell version with a process check for chrome.
